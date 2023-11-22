@@ -3,7 +3,7 @@
   <a href="https://portfolio-ashy-three-77.vercel.app/" target="_blank">anandh.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
